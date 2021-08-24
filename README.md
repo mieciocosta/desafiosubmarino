@@ -6,7 +6,7 @@ Projeto de automação do site submarino
   <summary>Cenário 1</summary>
     <br>- Cenário de compra com CEP válido<br>
     <br>- Dado que estou acessando home<br>
-    <br>- e realizo uma buscado <produto><br>
+    <br>- e realizo uma busca do produto<br>
     <br>- e valido o resultado da busca<br>
     <br>- e seleciono o produto da lista<br>
     <br>- e insiro produto no carrinho<br>
@@ -19,7 +19,7 @@ Projeto de automação do site submarino
   <summary>Cenário 2</summary>
     <br>- Cenário de compra com CEP inválido<br>
     <br>- Dado que estou acessando home<br>
-    <br>- e realizo uma buscado <produto><br>
+    <br>- e realizo uma busca do produto<br>
     <br>- e valido o resultado da busca<br>
     <br>- e seleciono o produto da lista<br>
     <br>- e insiro produto no carrinho<br>
