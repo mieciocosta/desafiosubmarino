@@ -1,6 +1,5 @@
 # QAops
 Desafio Submarino
-# Livelelo
 Projeto de automação do site submarino
 
 <details>
